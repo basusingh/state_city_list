@@ -1,0 +1,822 @@
+Resource file @values/string.xml
+
+
+<string-array name="state_list">
+        <item>State</item>
+        <item>Andaman And Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Puducherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+    </string-array>
+
+    <string-array name="district_andaman_nicobar">
+        <item>District (Optional)</item>
+        <item>SOUTH ANDAMAN</item>
+        <item>NICOBARS</item>
+        <item>NORTH AND MIDDLE ANDAMAN</item>
+    </string-array>
+    <string-array name="district_andhra_pradesh">
+        <item>District (Optional)</item>
+        <item>ANANTAPUR</item>
+        <item>CHITTOOR</item>
+        <item>Y.S.R (Kadapa)</item>
+        <item>EAST GODAVARI</item>
+        <item>GUNTUR</item>
+        <item>KRISHNA</item>
+        <item>KURNOOL</item>
+        <item>SPSR NELLORE</item>
+        <item>PRAKASAM</item>
+        <item>SRIKAKULAM</item>
+        <item>VISAKHAPATNAM</item>
+        <item>VIZIANAGARAM</item>
+        <item>WEST GODAVARI</item>
+    </string-array>
+    <string-array name="district_arunachal_pradesh">
+        <item>District (Optional)</item>
+        <item>CHANGLAND</item>
+        <item>DIBANG VALLEY</item>
+        <item>EAST KAMENG</item>
+        <item>EAST SIANG</item>
+        <item>KURUNG KUMEY</item>
+        <item>LOHIT</item>
+        <item>LOWER DIBANG VALLEY</item>
+        <item>LOWER SUBANSIRI</item>
+        <item>PAPUM PARE</item>
+        <item>TAWANG</item>
+        <item>TIRAP</item>
+        <item>UPPER SIANG</item>
+        <item>UPPER SUBANSIRI</item>
+        <item>WEST KAMENG</item>
+        <item>WEST SIANG</item>
+        <item>ANJAW</item>
+        <item>LONGDING</item>
+    </string-array>
+    <string-array name="district_assam">
+        <item>District (Optional)</item>
+        <item>BARPETA</item>
+        <item>BONGAIGAON</item>
+        <item>CACHAR</item>
+        <item>DARRANG</item>
+        <item>DHEMAJI</item>
+        <item>DHUBRI</item>
+        <item>DIBRUGARH</item>
+        <item>GOALPARA</item>
+        <item>GOLAGHAT</item>
+        <item>HAILAKANDI</item>
+        <item>JORHAT</item>
+        <item>KAMRUP</item>
+        <item>KARBI ANGLONG</item>
+        <item>KARIMGANJ</item>
+        <item>KOKRAJHAR</item>
+        <item>LAKHIMPUR</item>
+        <item>Morigaon</item>
+        <item>NAGAON</item>
+        <item>NALBARI</item>
+        <item>DIMA HASAO</item>
+        <item>SIVASAGAR</item>
+        <item>SONITPUR</item>
+        <item>TINSUKIA</item>
+        <item>CHIRANG</item>
+        <item>BAKSA</item>
+        <item>UDALGURI</item>
+        <item>KAMRUP METRO</item>
+    </string-array>
+    <string-array name="district_bihar">
+        <item>District (Optional)</item>
+        <item>ARARIA</item>
+        <item>AURANGABAD</item>
+        <item>BANKA</item>
+        <item>BEGUSARAI</item>
+        <item>BHAGALPUR</item>
+        <item>BHOJPUR</item>
+        <item>BUXAR</item>
+        <item>DARBHANGA</item>
+        <item>GAYA</item>
+        <item>GOPALGANJ</item>
+        <item>JAMUI</item>
+        <item>JEHANABAD</item>
+        <item>KAIMUR (BHABUA)</item>
+        <item>KATIHAR</item>
+        <item>KHAGARIA</item>
+        <item>KISHANGANJ</item>
+        <item>LAKHISARAI</item>
+        <item>MADHEPURA</item>
+        <item>MADHUBANI</item>
+        <item>MUNGER</item>
+        <item>MUZAFFARPUR</item>
+        <item>NALANDA</item>
+        <item>NAWADA</item>
+        <item>WEST CHAMPARAN</item>
+        <item>PATNA</item>
+        <item>EAST CHAMPARAN</item>
+        <item>PURNIA</item>
+        <item>ROHTAS</item>
+        <item>SAHARSA</item>
+        <item>SAMASTIPUR</item>
+        <item>SARAN</item>
+        <item>SHEIKHPURA</item>
+        <item>SHEOHAR</item>
+        <item>SITAMARHI</item>
+        <item>SIWAN</item>
+        <item>SUPAUL</item>
+        <item>VAISHALI</item>
+        <item>ARWAL</item>
+    </string-array>
+    <string-array name="district_chandigarh">
+        <item>District (Optional)</item>
+        <item>CHANDIGARH</item>
+    </string-array>
+    <string-array name="district_chhattisgarh">
+        <item>District (Optional)</item>
+        <item>BASTAR</item>
+        <item>BILASPUR</item>
+        <item>DANTEWADA</item>
+        <item>DHAMTARI</item>
+        <item>DURG</item>
+        <item>JANJGIR-CHAMPA</item>
+        <item>JASHPUR</item>
+        <item>KANKER</item>
+        <item>KABIRDHAM (Kawardha)</item>
+        <item>KORBA</item>
+        <item>KOREA</item>
+        <item>MAHASAMUND</item>
+        <item>RAIGARH</item>
+        <item>RAIPUR</item>
+        <item>RAJNANDGAON</item>
+        <item>SURGUJA</item>
+        <item>BIJAPUR</item>
+        <item>NARAYANPUR</item>
+        <item>SUKMA</item>
+        <item>KONDAGAON</item>
+        <item>BALODA BAZAR</item>
+        <item>GARIYABAND</item>
+        <item>BALOD</item>
+        <item>MUNGELI</item>
+        <item>SURAJPUR</item>
+        <item>BALRAMPUR</item>
+        <item>BEMETATA</item>
+    </string-array>
+    <string-array name="district_dadra_and_nagar_haveli">
+        <item>District (Optional)</item>
+        <item>DADRA AND NAGAR HAVELI</item>
+    </string-array>
+    <string-array name="district_daman_diu">
+        <item>District (Optional)</item>
+        <item>DAMAN</item>
+        <item>DIU</item>
+    </string-array>
+    <string-array name="district_delhi">
+        <item>District (Optional)</item>
+        <item>CENTRAL DELHI</item>
+        <item>EAST DELHI</item>
+        <item>NEW DELHI</item>
+        <item>NORTH DELHI</item>
+        <item>NORTH EAST DELHI</item>
+        <item>NORTH WEST DELHI</item>
+        <item>SOUTH DELHI</item>
+        <item>SOUTH WEST DELHI</item>
+        <item>WEST DELHI</item>
+        <item>SOUTH EAST DELHI</item>
+        <item>SHAHDARA</item>
+    </string-array>
+    <string-array name="district_goa">
+        <item>District (Optional)</item>
+        <item>NORTH GOA</item>
+        <item>SOUTH GOA</item>
+    </string-array>
+    <string-array name="district_gujarat">
+        <item>District (Optional)</item>
+        <item>AHMEDABAD</item>
+        <item>AMRELI</item>
+        <item>ANAND</item>
+        <item>Banaskantha</item>
+        <item>BHARUCH</item>
+        <item>BHAVNAGAR</item>
+        <item>DANG</item>
+        <item>Dathod</item>
+        <item>GANDHINAGAR</item>
+        <item>JAMNAGAR</item>
+        <item>JUNAGADH</item>
+        <item>KACHCHH</item>
+        <item>KHEDA</item>
+        <item>Mehsana</item>
+        <item>NARMADA</item>
+        <item>NAVSARI</item>
+        <item>Panchmahal</item>
+        <item>PATAN</item>
+        <item>PORBANDAR</item>
+        <item>RAJKOT</item>
+        <item>Sabarkantha</item>
+        <item>SURAT</item>
+        <item>SURENDRANAGAR</item>
+        <item>VADODARA</item>
+        <item>VALSAD</item>
+        <item>TAPI</item>
+        <item>CHHOTAUDEPUR</item>
+        <item>Mahisagar</item>
+        <item>ARVALLI</item>
+    </string-array>
+    <string-array name="district_haryana">
+        <item>District (Optional)</item>
+        <item>AMBALA</item>
+        <item>BHIWANI</item>
+        <item>FARIDABAD</item>
+        <item>FATEHABAD</item>
+        <item>GURGAON</item>
+        <item>HISAR</item>
+        <item>JHAJJAR</item>
+        <item>JIND</item>
+        <item>KAITHAL</item>
+        <item>KARNAL</item>
+        <item>KURUKSHETRA</item>
+        <item>MAHENDRAGARH</item>
+        <item>PANCHKULA</item>
+        <item>PANIPAT</item>
+        <item>REWARI</item>
+        <item>ROHTAK</item>
+        <item>SIRSA</item>
+        <item>SONIPAT</item>
+        <item>YAMUNANAGAR</item>
+        <item>MEWAT</item>
+        <item>PALWAL</item>
+    </string-array>
+    <string-array name="district_himachal_pradesh">
+        <item>District (Optional)</item>
+        <item>BILASPUR</item>
+        <item>CHAMBA</item>
+        <item>HAMIRPUR</item>
+        <item>KANGRA</item>
+        <item>KINNAUR</item>
+        <item>KULLU</item>
+        <item>LAHUL AND SPITI</item>
+        <item>MANDI</item>
+        <item>SHIMLA</item>
+        <item>SIRMAUR</item>
+        <item>SOLAN</item>
+        <item>UNA</item>
+    </string-array>
+    <string-array name="district_jammu_kashmir">
+        <item>District (Optional)</item>
+        <item>ANANTNAG</item>
+        <item>Budgam</item>
+        <item>BARAMULLA</item>
+        <item>DODA</item>
+        <item>JAMMU</item>
+        <item>KARGIL</item>
+        <item>KATHUA</item>
+        <item>KUPWARA</item>
+        <item>LEH LADAKH</item>
+        <item>POONCH</item>
+        <item>PULWAMA</item>
+        <item>RAJOURI</item>
+        <item>SRINAGAR</item>
+        <item>UDHAMPUR</item>
+        <item>KISHTWAR</item>
+        <item>RAMBAN</item>
+        <item>KULGAM</item>
+        <item>BANDIPORA</item>
+        <item>SAMBA</item>
+        <item>SHOPIAN</item>
+        <item>GANDERBAL</item>
+        <item>REASI</item>
+    </string-array>
+    <string-array name="district_jharkhand">
+        <item>District (Optional)</item>
+        <item>BOKARO</item>
+        <item>CHATRA</item>
+        <item>DEOGHAR</item>
+        <item>DHANBAD</item>
+        <item>DUMKA</item>
+        <item>EAST SINGHBHUM</item>
+        <item>GARHWA</item>
+        <item>GIRIDIH</item>
+        <item>GODDA</item>
+        <item>GUMLA</item>
+        <item>HAZARIBAGH</item>
+        <item>JAMMTARA</item>
+        <item>KODERMA</item>
+        <item>LATEHAR</item>
+        <item>LOHARDAGA</item>
+        <item>PAKUR</item>
+        <item>PALAMU</item>
+        <item>RANCHI</item>
+        <item>SAHEBGANJ</item>
+        <item>SARAIKELA KHARSAWAN</item>
+        <item>SIMDEGA</item>
+        <item>WEST SINGHBUM</item>
+        <item>KHUNTI</item>
+        <item>RAMGARH</item>
+    </string-array>
+    <string-array name="district_karnataka">
+        <item>District (Optional)</item>
+        <item>BAGALKOT</item>
+        <item>BENGALURU URBAN</item>
+        <item>BENGALURU RURAL</item>
+        <item>Belgaum</item>
+        <item>BELLARY</item>
+        <item>BIDAR</item>
+        <item>Bijapur</item>
+        <item>CHAMARAJANAGAR</item>
+        <item>CHIKKAMAGALURU</item>
+        <item>CHITRADURGA</item>
+        <item>DAKSHINA KANNADA</item>
+        <item>DAVANGERE</item>
+        <item>DHARWAD</item>
+        <item>GADAG</item>
+        <item>KALABURAGI</item>
+        <item>HASSAN</item>
+        <item>HAVERI</item>
+        <item>KODAGU</item>
+        <item>KOLAR</item>
+        <item>KOPPAL</item>
+        <item>MANDYA</item>
+        <item>Mysore</item>
+        <item>RAICHUR</item>
+        <item>SHIVAMOGGA</item>
+        <item>TUMAKURU</item>
+        <item>UDUPI</item>
+        <item>UTTARA KANNADA</item>
+        <item>CHikkaballapur</item>
+        <item>RAMANAGARA</item>
+        <item>YADGIR</item>
+    </string-array>
+    <string-array name="district_kerela">
+        <item>District (Optional)</item>
+        <item>ALAPPUZHA</item>
+        <item>ERNAKULAM</item>
+        <item>IDUKKI</item>
+        <item>KANNUR</item>
+        <item>KASARAGOD</item>
+        <item>KOLLAM</item>
+        <item>KOTTAYAM</item>
+        <item>KOZHIKODE</item>
+        <item>MALAPPURAM</item>
+        <item>PALAKKAD</item>
+        <item>PATHANAMTHITTA</item>
+        <item>THIRUVANANTHAPURAM</item>
+        <item>THRISSUR</item>
+        <item>WAYANAD</item>
+    </string-array>
+    <string-array name="district_lakshadweep">
+        <item>District (Optional)</item>
+        <item>LAKSHADWEEP DISTRICT</item>
+    </string-array>
+    <string-array name="district_madhya_pradesh">
+        <item>District (Optional)</item>
+        <item>ANUPPUR</item>
+        <item>ASHOKNAGAR</item>
+        <item>BALAGHAT</item>
+        <item>BARWANI</item>
+        <item>BETUL</item>
+        <item>BHIND</item>
+        <item>BHOPAL</item>
+        <item>BURHANPUR</item>
+        <item>CHHATARPUR</item>
+        <item>CHHINDWARA</item>
+        <item>DAMOH</item>
+        <item>DATIA</item>
+        <item>DEWAS</item>
+        <item>DHAR</item>
+        <item>DINDORI</item>
+        <item>EAST NIMAR</item>
+        <item>GUNA</item>
+        <item>GWALIOR</item>
+        <item>HARDA</item>
+        <item>HOSHANGABAD</item>
+        <item>INDORE</item>
+        <item>JABALPUR</item>
+        <item>JHABUA</item>
+        <item>KATNI</item>
+        <item>KHARGONE</item>
+        <item>MANDLA</item>
+        <item>MANDSAUR</item>
+        <item>MORENA</item>
+        <item>NARSINGHPUR</item>
+        <item>NEEMUCH</item>
+        <item>PANNA</item>
+        <item>RAISEN</item>
+        <item>RAJGARH</item>
+        <item>RATLAM</item>
+        <item>REWA</item>
+        <item>SAGAR</item>
+        <item>SATNA</item>
+        <item>SEHORE</item>
+        <item>SEONI</item>
+        <item>SHAHDOL</item>
+        <item>SHAJAPUR</item>
+        <item>SHEOPUR</item>
+        <item>SHIVPURI</item>
+        <item>SIDHI</item>
+        <item>TIKAMGARH</item>
+        <item>UJJAIN</item>
+        <item>UMARIA</item>
+        <item>VIDISHA</item>
+        <item>SINGRAULI</item>
+        <item>ALIRAJPUR</item>
+        <item>AGAR MALWA</item>
+    </string-array>
+    <string-array name="district_maharashtra">
+        <item>District (Optional)</item>
+        <item>AHMEDNAGAR</item>
+        <item>AKOLA</item>
+        <item>AMRAVATI</item>
+        <item>AURANGABAD</item>
+        <item>BEED</item>
+        <item>BHANDARA</item>
+        <item>BULDHANA</item>
+        <item>CHANDRAPUR</item>
+        <item>DHULE</item>
+        <item>GADCHIROLI</item>
+        <item>GONDIA</item>
+        <item>HINGOLI</item>
+        <item>JALGAON</item>
+        <item>JALNA</item>
+        <item>KOLHAPUR</item>
+        <item>LATUR</item>
+        <item>MUMBAI</item>
+        <item>MUMBAI SUBURBAN</item>
+        <item>NAGPUR</item>
+        <item>NANDED</item>
+        <item>NANDURBAR</item>
+        <item>NASHIK</item>
+        <item>OSMANABAD</item>
+        <item>PARBHANI</item>
+        <item>PUNE</item>
+        <item>RAIGAD</item>
+        <item>RATNAGIRI</item>
+        <item>SANGLI</item>
+        <item>SATARA</item>
+        <item>SINDHUDURG</item>
+        <item>SOLAPUR</item>
+        <item>THANE</item>
+        <item>WARDHA</item>
+        <item>WASHIM</item>
+        <item>YAVATMAL</item>
+        <item>PALDHAR</item>
+    </string-array>
+    <string-array name="district_manipur">
+        <item>District (Optional)</item>
+        <item>BISHNUPUR</item>
+        <item>CHANDEL</item>
+        <item>CHURACHANDPUR</item>
+        <item>IMPHAL EAST</item>
+        <item>IMPHAL WEST</item>
+        <item>SENAPATI</item>
+        <item>TAMENGLONG</item>
+        <item>THOUBAL</item>
+        <item>UKHRUL</item>
+    </string-array>
+    <string-array name="district_meghalaya">
+        <item>District (Optional)</item>
+        <item>EAST GARO HILLS</item>
+        <item>EAST KHASI HILLS</item>
+        <item>WEST JAINTIA HILLS</item>
+        <item>RI BHOI</item>
+        <item>SOUTH GARO HILLS</item>
+        <item>WEST GARO HILLS</item>
+        <item>WEST KHASI HILLS</item>
+        <item>NORTH GARO HILLS</item>
+        <item>EAST JAINTIA HILLS</item>
+        <item>SOUTH WEST KHASI HILLS</item>
+        <item>SOUTH WEST GARO HILLS</item>
+    </string-array>
+    <string-array name="district_mizoram">
+        <item>District (Optional)</item>
+        <item>AIZAWL</item>
+        <item>CHAMPHAI</item>
+        <item>KOLASIB</item>
+        <item>LAWNGTLAI</item>
+        <item>LUNGLEI</item>
+        <item>MAMIT</item>
+        <item>SAIHA</item>
+        <item>SEARCHHIP</item>
+    </string-array>
+    <string-array name="district_nagaland">
+        <item>District (Optional)</item>
+        <item>DIMAPUR</item>
+        <item>KOHIMA</item>
+        <item>MOKOKCHUNG</item>
+        <item>MON</item>
+        <item>PHEK</item>
+        <item>TUENSANG</item>
+        <item>WOKHA</item>
+        <item>ZUNHEBOTO</item>
+        <item>PEREN</item>
+        <item>KIPHIRE</item>
+        <item>LONGLENG</item>
+    </string-array>
+    <string-array name="district_odisha">
+        <item>District (Optional)</item>
+        <item>ANGUL</item>
+        <item>BALANGIR</item>
+        <item>Balasore</item>
+        <item>BARGARH</item>
+        <item>BHADRAK</item>
+        <item>BOUDH</item>
+        <item>CUTTACK</item>
+        <item>DEOGARH</item>
+        <item>DHENKANAL</item>
+        <item>GAJAPATI</item>
+        <item>GANJAM</item>
+        <item>Jagatsinghpur</item>
+        <item>JAJPUR</item>
+        <item>JHARSUGUDA</item>
+        <item>KALAHANDI</item>
+        <item>KANDHAMAL</item>
+        <item>KENDRAPARA</item>
+        <item>KENDUJHAR</item>
+        <item>KHORDHA</item>
+        <item>KORAPUT</item>
+        <item>MALKANGIRI</item>
+        <item>MAYURBHANJ</item>
+        <item>NABARANGPUR</item>
+        <item>NAYAGARH</item>
+        <item>NUAPADA</item>
+        <item>PURI</item>
+        <item>RAYAGADA</item>
+        <item>SAMBALPUR</item>
+        <item>SONEPUR</item>
+        <item>Sundergarh</item>
+    </string-array>
+    <string-array name="district_puducherry">
+        <item>District (Optional)</item>
+        <item>KARAIKAL</item>
+        <item>MAHE</item>
+        <item>Puducherry</item>
+        <item>YANAM</item>
+    </string-array>
+    <string-array name="district_punjab">
+        <item>District (Optional)</item>
+        <item>AMRITSAR</item>
+        <item>BATHINDA</item>
+        <item>FARIDKOT</item>
+        <item>FATEHGARH SAHIB</item>
+        <item>Ferozpur</item>
+        <item>GURDASPUR</item>
+        <item>HOSHIARPUR</item>
+        <item>JALANDHAR</item>
+        <item>KAPURTHALA</item>
+        <item>LUDHIANA</item>
+        <item>MANSA</item>
+        <item>MOGA</item>
+        <item>SRI MUKTSAR SAHIB</item>
+        <item>NAWANSHAHR</item>
+        <item>PATIALA</item>
+        <item>RUPNAGAR</item>
+        <item>SANGRUR</item>
+        <item>BARNALA</item>
+        <item>S.A.S Nagar (Mohali)</item>
+        <item>Tarn Taran</item>
+        <item>FAZILKA</item>
+        <item>PATHANKOT</item>
+    </string-array>
+    <string-array name="district_rajasthan">
+        <item>District (Optional)</item>
+        <item>AJMER</item>
+        <item>ALWAR</item>
+        <item>BANSWARA</item>
+        <item>BARAN</item>
+        <item>BARMER</item>
+        <item>BHARATPUR</item>
+        <item>BHILWARA</item>
+        <item>BIKANER</item>
+        <item>BUNDI</item>
+        <item>CHITTORGARH</item>
+        <item>CHURU</item>
+        <item>DAUSA</item>
+        <item>DHOLPUR</item>
+        <item>DUNGARPUR</item>
+        <item>SRIGANGANAGAR</item>
+        <item>HANUMANGARH</item>
+        <item>JAIPUR</item>
+        <item>JAISALMER</item>
+        <item>JALORE</item>
+        <item>JHALAWAR</item>
+        <item>JHUNJHUNU</item>
+        <item>JODHPUR</item>
+        <item>KARAULI</item>
+        <item>KOTA</item>
+        <item>NAGAUR</item>
+        <item>PALI</item>
+        <item>RAJSAMAND</item>
+        <item>SAWAI MADHOPUR</item>
+        <item>SIKAR</item>
+        <item>SIROHI</item>
+        <item>TONK</item>
+        <item>UDAIPUR</item>
+        <item>PRATAPGARH</item>
+    </string-array>
+    <string-array name="district_sikkim">
+        <item>District (Optional)</item>
+        <item>EAST Sikkim</item>
+        <item>NORTH Sikkim</item>
+        <item>SOUTH Sikkim</item>
+        <item>WEST Sikkim</item>
+    </string-array>
+    <string-array name="district_tamil_nadu">
+        <item>District (Optional)</item>
+        <item>CHENNAI</item>
+        <item>COIMBATORE</item>
+        <item>CUDDALORE</item>
+        <item>DHARMAPURI</item>
+        <item>DINDIGUL</item>
+        <item>ERODE</item>
+        <item>KANCHIPURAM</item>
+        <item>Kanyakumari</item>
+        <item>KARUR</item>
+        <item>KRISHNAGIRI</item>
+        <item>MADURAI</item>
+        <item>NAGAPATTINAM</item>
+        <item>NAMAKKAL</item>
+        <item>PERAMBALUR</item>
+        <item>PUDUKKOTTAI</item>
+        <item>RAMANATHPURAM</item>
+        <item>SALEM</item>
+        <item>SIVAGANGA</item>
+        <item>THANJAVUR</item>
+        <item>THE NILGIRIS</item>
+        <item>THENI</item>
+        <item>THIRUVALLUR</item>
+        <item>THIRUVARUR</item>
+        <item>TIRUCHIRAPPALLI</item>
+        <item>TIRUNELEVELI</item>
+        <item>TIRUVANNAMALAI</item>
+        <item>Thoothukudi (TUTICORIN)</item>
+        <item>VELLORE</item>
+        <item>VILLUPURAM</item>
+        <item>VIRUDHUNAGAR</item>
+        <item>Ariyalur</item>
+        <item>TIRUPPUR</item>
+    </string-array>
+    <string-array name="district_telangana">
+        <item>District (Optional)</item>
+        <item>ADILABAD</item>
+        <item>HYDERABAD</item>
+        <item>KARIMNAGAR</item>
+        <item>KHAMMAM</item>
+        <item>MAHBUBNAGAR</item>
+        <item>MEDAK</item>
+        <item>NALGONDA</item>
+        <item>NIZAMABAD</item>
+        <item>RANGAREDDY</item>
+        <item>WARANGAL</item>
+    </string-array>
+    <string-array name="district_tripura">
+        <item>District (Optional)</item>
+        <item>Dhalai</item>
+        <item>North Tripura</item>
+        <item>South Tripura</item>
+        <item>West Tripura</item>
+        <item>Khowai</item>
+        <item>Sepahijala</item>
+        <item>Gomati</item>
+        <item>Unakoti</item>
+    </string-array>
+    <string-array name="district_uttar_pradesh">
+        <item>District (Optional)</item>
+        <item>AGRA</item>
+        <item>ALIGARH</item>
+        <item>ALLAHABAD</item>
+        <item>AMBEDKAR NAGAR</item>
+        <item>AURAIYA</item>
+        <item>AZAMGARH</item>
+        <item>BADHPAT</item>
+        <item>BAHRAICH</item>
+        <item>BALLIA</item>
+        <item>BALRAMPUR</item>
+        <item>BANDA</item>
+        <item>BARABANKI</item>
+        <item>BAREILLY</item>
+        <item>BASTI</item>
+        <item>BIJNOR</item>
+        <item>BUDAUN</item>
+        <item>BULANDSHAHR</item>
+        <item>CHANDAULI</item>
+        <item>BEORIA</item>
+        <item>ETAH</item>
+        <item>ETAWAH</item>
+        <item>FAIZABAD</item>
+        <item>FARRUKHABAD</item>
+        <item>FATEHPUR</item>
+        <item>FIROZABAD</item>
+        <item>GAUTAM BUDDHA NAGAR</item>
+        <item>GHAZIABAD</item>
+        <item>GHAZIPUR</item>
+        <item>GONDA</item>
+        <item>GORAKHPUR</item>
+        <item>HAMIRPUR</item>
+        <item>HARDOI</item>
+        <item>JALAUN</item>
+        <item>JAUNPUR</item>
+        <item>JHANSI</item>
+        <item>AMROHA</item>
+        <item>KANNAUJ</item>
+        <item>KANPUR DEHAT</item>
+        <item>KANPUR NAGAR</item>
+        <item>KAUSHAMBI</item>
+        <item>Lakhimpur Kheri</item>
+        <item>Kushinagar</item>
+        <item>LALITPUR</item>
+        <item>LUCKNOW</item>
+        <item>HATHRAS</item>
+        <item>MAHARAJGANJ</item>
+        <item>MAHOBA</item>
+        <item>MAINPURI</item>
+        <item>MATHURA</item>
+        <item>MAU</item>
+        <item>MEERUT</item>
+        <item>MIRZAPUR</item>
+        <item>MORADABAD</item>
+        <item>MUZAFFARNAGAR</item>
+        <item>PILIBHIT</item>
+        <item>PRATAPGARH</item>
+        <item>RAEBARELI</item>
+        <item>RAMPUR</item>
+        <item>SAHARANPUR</item>
+        <item>SANT KABIR NAGAR</item>
+        <item>Sant Ravidas Nagar (BHADOHI)</item>
+        <item>SHAHJAHANPUR</item>
+        <item>SHRAVASTI</item>
+        <item>SIDDHARTH NAGAR</item>
+        <item>SITAPUR</item>
+        <item>SONBHADRA</item>
+        <item>SULTANPUR</item>
+        <item>UNNAO</item>
+        <item>VARANASI</item>
+        <item>Kasganj</item>
+        <item>Amethi</item>
+        <item>SAMBHAL</item>
+        <item>SHAMLI</item>
+        <item>HAPUR</item>
+    </string-array>
+    <string-array name="district_uttarakhand">
+        <item>District (Optional)</item>
+        <item>ALMORA</item>
+        <item>BAGESHWAR</item>
+        <item>CHAMOLI</item>
+        <item>CHAMPAWAT</item>
+        <item>DEHRADUN</item>
+        <item>HARIDWAR</item>
+        <item>NAINITAL</item>
+        <item>PAURI GARHWAL</item>
+        <item>PITHORAGARH</item>
+        <item>RUDRA PRAYAG</item>
+        <item>TEHRI GARHWAL</item>
+        <item>UDHAM SINGH NAGAR</item>
+        <item>UTTAR KASHI</item>
+    </string-array>
+    <string-array name="district_west_bengal">
+        <item>District (Optional)</item>
+        <item>24 PARAGANAS NORTH</item>
+        <item>24 PARAGANAS SOUTH</item>
+        <item>BANKURA</item>
+        <item>BARDHAMAN</item>
+        <item>BIRBHUM</item>
+        <item>Cooch Behar</item>
+        <item>DARJEELING</item>
+        <item>Dakshin Dinajpur</item>
+        <item>Uttar Dinajpur</item>
+        <item>HOOGHLY</item>
+        <item>HOWRAH</item>
+        <item>JALPAIGURI</item>
+        <item>KOLKATA</item>
+        <item>MALDA</item>
+        <item>MEDINIPUR EAST</item>
+        <item>MEDINIPUR WEST</item>
+        <item>MURSHIDABAD</item>
+        <item>NADIA</item>
+        <item>PURULIA</item>
+        <item>Alipurduar</item>
+    </string-array>
