@@ -1,0 +1,136 @@
+Usage:
+        final MaterialSpinner spinner_state = (MaterialSpinner) findViewById(R.id.spinner_state);
+        final MaterialSpinner spinner_district = (MaterialSpinner) findViewById(R.id.spinner_district);
+
+        spinner_state.setItems(state);
+        spinner_district.setItems("District (Optional)");
+
+        spinner_state.setOnItemSelectedListener(new MaterialSpinner.OnItemSelectedListener<String>() {
+            @Override public void onItemSelected(MaterialSpinner view, int position, long id, String item) {
+                if(item.equals("State")){
+                    spinner_district.setItems("District (Optional)");
+                } else {
+                    district = selectDistrict(item);
+                    spinner_district.setItems(district);
+                }
+            }
+        });
+        
+     public String[] selectDistrict(String state){
+        String data[] = {};
+
+        if(!state.equals("State")){
+            switch (state){
+                case "Andaman And Nicobar Islands":
+                    data = getResources().getStringArray(R.array.district_andaman_nicobar);
+                    break;
+                case "Andhra Pradesh":
+                    data = getResources().getStringArray(R.array.district_andhra_pradesh);
+                    break;
+                case "Arunachal Pradesh":
+                    data = getResources().getStringArray(R.array.district_arunachal_pradesh);
+                    break;
+                case "Assam":
+                    data = getResources().getStringArray(R.array.district_assam);
+                    break;
+                case "Bihar":
+                    data = getResources().getStringArray(R.array.district_bihar);
+                    break;
+                case "Chandigarh":
+                    data = getResources().getStringArray(R.array.district_chandigarh);
+                    break;
+                case "Chhattisgarh":
+                    data = getResources().getStringArray(R.array.district_chhattisgarh);
+                    break;
+                case "Dadra and Nagar Haveli":
+                    data = getResources().getStringArray(R.array.district_dadra_and_nagar_haveli);
+                    break;
+                case "Daman and Diu":
+                    data = getResources().getStringArray(R.array.district_daman_diu);
+                    break;
+                case "Delhi":
+                    data = getResources().getStringArray(R.array.district_delhi);
+                    break;
+                case "Goa":
+                    data = getResources().getStringArray(R.array.district_goa);
+                    break;
+                case "Gujarat":
+                    data = getResources().getStringArray(R.array.district_gujarat);
+                    break;
+                case "Haryana":
+                    data = getResources().getStringArray(R.array.district_haryana);
+                    break;
+                case "Himachal Pradesh":
+                    data = getResources().getStringArray(R.array.district_himachal_pradesh);
+                    break;
+                case "Jammu and Kashmir":
+                    data = getResources().getStringArray(R.array.district_jammu_kashmir);
+                    break;
+                case "Jharkhand":
+                    data = getResources().getStringArray(R.array.district_jharkhand);
+                    break;
+                case "Karnataka":
+                    data = getResources().getStringArray(R.array.district_karnataka);
+                    break;
+                case "Kerala":
+                    data = getResources().getStringArray(R.array.district_kerela);
+                    break;
+                case "Lakshadweep":
+                    data = getResources().getStringArray(R.array.district_lakshadweep);
+                    break;
+                case "Madhya Pradesh":
+                    data = getResources().getStringArray(R.array.district_madhya_pradesh);
+                    break;
+                case "Maharashtra":
+                    data = getResources().getStringArray(R.array.district_maharashtra);
+                    break;
+                case "Manipur":
+                    data = getResources().getStringArray(R.array.district_manipur);
+                    break;
+                case "Meghalaya":
+                    data = getResources().getStringArray(R.array.district_meghalaya);
+                    break;
+                case "Mizoram":
+                    data = getResources().getStringArray(R.array.district_mizoram);
+                    break;
+                case "Nagaland":
+                    data = getResources().getStringArray(R.array.district_nagaland);
+                    break;
+                case "Odisha":
+                    data = getResources().getStringArray(R.array.district_odisha);
+                    break;
+                case "Puducherry":
+                    data = getResources().getStringArray(R.array.district_puducherry);
+                    break;
+                case "Punjab":
+                    data = getResources().getStringArray(R.array.district_punjab);
+                    break;
+                case "Rajasthan":
+                    data = getResources().getStringArray(R.array.district_rajasthan);
+                    break;
+                case "Sikkim":
+                    data = getResources().getStringArray(R.array.district_sikkim);
+                    break;
+                case "Tamil Nadu":
+                    data = getResources().getStringArray(R.array.district_tamil_nadu);
+                    break;
+                case "Telangana":
+                    data = getResources().getStringArray(R.array.district_telangana);
+                    break;
+                case "Tripura":
+                    data = getResources().getStringArray(R.array.district_tripura);
+                    break;
+                case "Uttar Pradesh":
+                    data = getResources().getStringArray(R.array.district_uttar_pradesh);
+                    break;
+                case "Uttarakhand":
+                    data = getResources().getStringArray(R.array.district_uttarakhand);
+                    break;
+                case "West Bengal":
+                    data = getResources().getStringArray(R.array.district_west_bengal);
+                    break;
+            }
+        }
+
+        return data;
+    }
